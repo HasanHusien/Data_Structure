@@ -1,7 +1,7 @@
 🧠 Data Structure Basics
 
 Welcome to my Data Structure Basics repository!
-This repo is a collection of essential data structures implemented in JavaScript, along with explanations, examples, and visual logic to help understand how each structure works.
+This repo is a collection of essential data structures implemented in JavaScript and Python, along with explanations, examples, and visual logic to help understand how each structure works.
 
 📘 Overview
 
